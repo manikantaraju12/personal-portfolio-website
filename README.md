@@ -12,11 +12,30 @@ This is a responsive, animated personal portfolio built with React + Vite. It in
 - Custom CSS
 - Google Fonts
 
+## GitHub Repository
+
+https://github.com/manikantaraju12/personal-portfolio-website
+
+## Deploy to Vercel (Recommended)
+
+1. Go to https://vercel.com
+2. Click "New Project"
+3. Import the GitHub repository
+4. Click "Deploy"
+5. Your live URL will be auto-generated (e.g., `personal-portfolio-website.vercel.app`)
+6. Update the README with your live URL below
+
+## Deploy to Netlify
+
+1. Go to https://netlify.com
+2. Click "New site from Git"
+3. Connect GitHub and select this repository
+4. Click "Deploy"
+5. Your live URL will be auto-generated
+
 ## Live Site
 
-Deploy this project to a free hosting platform such as Vercel or Netlify, then add the public URL here.
-
-Live URL: your-deployed-url-here
+Live URL: [Add your deployed URL here]
 
 ## Local Setup
 
